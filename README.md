@@ -1,3 +1,8 @@
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/fd881105-0a7a-42d1-bcae-17284108b9a0"  />
+</p>
+
+
 # 👨‍💻 **Android Developer | SysAdmin** 🖥️
 
 ¡Hola! 👋 Soy un **Desarrollador Android** con amplia experiencia en el desarrollo de aplicaciones móviles usando **Kotlin** y **Java**, y también cuento con experiencia en la **administración de servidores** en entornos **Windows Server** y **Linux**. Me apasiona crear soluciones tecnológicas innovadoras y eficientes. 🚀

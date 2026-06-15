@@ -46,6 +46,7 @@
 - **LinkedIn**: [Juan Sanz](https://www.linkedin.com/in/juan-sanz) 🔗
 - **GitHub**: [Juan Sanz](https://github.com/juanunix) 🐙
 - **Twitter**: [@juanperezdev](https://twitter.com/juanperezdev) 🐦
+- **Course**: [@https://ai.studio/apps/666e7be5-7dec-4ebf-9119-dc09ad92d03a)
 
 ---
 
